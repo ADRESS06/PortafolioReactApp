@@ -1,0 +1,31 @@
+.Home{
+    width: auto;
+    height: 94vh;
+    display: flex;
+}
+.Ho{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.me{
+    width: 50%;
+}
+.text{
+    width: 80%;
+}
+.text h1{
+    font-size: 4em;
+}
+.text h1 span{
+    color: rgb(0, 207, 248);;
+}
+.text p{
+    margin-bottom: 2em;
+}
+.me{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
